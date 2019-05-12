@@ -1,6 +1,6 @@
 IOSync
 ==========
-[![npm version](https://badge.fury.io/js/my-io-sync.svg)](https://badge.fury.io/js/my-io-sync)  
+[![npm version](https://badge.fury.io/js/my-io-sync.svg)](https://badge.fury.io/js/my-io-sync) [![Build Status](https://travis-ci.org/qianduanXIAOHAOZI/my-io-sync.svg?branch=master)](https://travis-ci.org/qianduanXIAOHAOZI/my-io-sync)  
 This package provides sync IO method for nodejs.
 
 Install
