@@ -1,10 +1,10 @@
 {
   "name": "my-io-sync",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "This package provides sync IO method for nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node test.js",
     "build": "sudo node-gyp configure build"
   },
   "keywords": [
